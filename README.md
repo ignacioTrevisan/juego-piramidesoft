@@ -5,6 +5,8 @@ Juego educativo estilo "programá los pasos del robot para llegar a la meta", he
 
 ## ¿Cómo funciona?
 
+s
+
 - **3 niveles** de dificultad creciente: grillas de **3×3**, **4×4** y **5×5** (los dos últimos
   con obstáculos).
 - El jugador arma un **programa** con comandos (`Avanzar`, `Girar izquierda`, `Girar derecha`) y
